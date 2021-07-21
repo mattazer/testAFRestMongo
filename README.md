@@ -1,4 +1,4 @@
-# testRest
+# testAFRestMongo
 
 #Build
 mvn clean install
